@@ -1,2 +1,4 @@
-print ("Hello world")
 print("RTFM")
+print ("Hello everybody")
+print ("Goobye")
+print ("Test")
